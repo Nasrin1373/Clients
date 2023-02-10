@@ -1,4 +1,4 @@
-create table clients (
+CREATE TABLE clients (
 	id_client INT,
 	first_name VARCHAR(50) NOT NULL,
 	last_name VARCHAR(50) NOT NULL,
